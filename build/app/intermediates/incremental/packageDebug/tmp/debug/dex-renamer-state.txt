@@ -1,0 +1,4 @@
+#Sun May 21 06:36:27 BDT 2023
+base.0=C\:\\Users\\bdCalling\\Downloads\\M-Box-Login-UI-main\\M-Box-Login-UI-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
